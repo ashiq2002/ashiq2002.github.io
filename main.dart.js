@@ -73789,7 +73789,7 @@ return this.a.Yl(s)},
 $S:0}
 A.Ie.prototype={
 J(a){var s=null,r=A.FB(!1,s,!0,A.bZ("Settings",s,s,s,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,s,new A.a5h(),s,s,s,s,s,s)
-return A.anm(new A.tm(r,new A.Nx(s,s,1/0,56),s),A.m9(A.bZ("Settings Page (Coming Soon...)",s,s,s,A.hq(s,s,s,s,s,s,s,s,s,s,s,22,s,s,B.f8,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s))}}
+return A.anm(new A.tm(r,new A.Nx(s,s,1/0,56),s),A.m9(A.bZ("yeah baby..........",s,s,s,A.hq(s,s,s,s,s,s,s,s,s,s,s,22,s,s,B.f8,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s))}}
 A.a5h.prototype={
 $0(){A.CE("Tapp")},
 $S:0}
